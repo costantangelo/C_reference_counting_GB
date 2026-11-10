@@ -1,5 +1,5 @@
 /*
- * Piccolo esempio di refcounting GB per Alba CubeSat.
+ * Piccolo esempio di refcounting GB.
  */
 
 
